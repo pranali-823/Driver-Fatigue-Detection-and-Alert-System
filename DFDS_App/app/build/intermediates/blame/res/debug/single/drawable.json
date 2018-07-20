@@ -1,0 +1,194 @@
+[
+    {
+        "merged": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash1.png",
+        "source": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\src\\main\\res\\drawable\\splash1.png"
+    },
+    {
+        "merged": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\com\\.android\\build-cache\\20ac1037defe225fb494cd5090d2abbd46355c22\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\com\\.android\\build-cache\\20ac1037defe225fb494cd5090d2abbd46355c22\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\com\\.android\\build-cache\\20ac1037defe225fb494cd5090d2abbd46355c22\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\user.png",
+        "source": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\src\\main\\res\\drawable\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\com\\.android\\build-cache\\20ac1037defe225fb494cd5090d2abbd46355c22\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\com\\.android\\build-cache\\20ac1037defe225fb494cd5090d2abbd46355c22\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\calendar.png",
+        "source": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\src\\main\\res\\drawable\\calendar.png"
+    },
+    {
+        "merged": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bell.png",
+        "source": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\src\\main\\res\\drawable\\bell.png"
+    },
+    {
+        "merged": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\com\\.android\\build-cache\\20ac1037defe225fb494cd5090d2abbd46355c22\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gender.png",
+        "source": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\src\\main\\res\\drawable\\gender.png"
+    },
+    {
+        "merged": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\com\\.android\\build-cache\\20ac1037defe225fb494cd5090d2abbd46355c22\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\book.png",
+        "source": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\src\\main\\res\\drawable\\book.png"
+    },
+    {
+        "merged": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\settings.png",
+        "source": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\src\\main\\res\\drawable\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\phone.png",
+        "source": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\src\\main\\res\\drawable\\phone.png"
+    },
+    {
+        "merged": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vibrate.png",
+        "source": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\src\\main\\res\\drawable\\vibrate.png"
+    },
+    {
+        "merged": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\com\\.android\\build-cache\\20ac1037defe225fb494cd5090d2abbd46355c22\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\com\\.android\\build-cache\\20ac1037defe225fb494cd5090d2abbd46355c22\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alert.png",
+        "source": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\src\\main\\res\\drawable\\alert.png"
+    },
+    {
+        "merged": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\write.png",
+        "source": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\src\\main\\res\\drawable\\write.png"
+    },
+    {
+        "merged": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\com\\.android\\build-cache\\20ac1037defe225fb494cd5090d2abbd46355c22\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\com\\.android\\build-cache\\20ac1037defe225fb494cd5090d2abbd46355c22\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\borders.xml",
+        "source": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\src\\main\\res\\drawable\\borders.xml"
+    },
+    {
+        "merged": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\com\\.android\\build-cache\\20ac1037defe225fb494cd5090d2abbd46355c22\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\com\\.android\\build-cache\\20ac1037defe225fb494cd5090d2abbd46355c22\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\com\\.android\\build-cache\\20ac1037defe225fb494cd5090d2abbd46355c22\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\contacts.png",
+        "source": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\src\\main\\res\\drawable\\contacts.png"
+    },
+    {
+        "merged": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash3.png",
+        "source": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\src\\main\\res\\drawable\\splash3.png"
+    },
+    {
+        "merged": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\com\\.android\\build-cache\\20ac1037defe225fb494cd5090d2abbd46355c22\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\com\\.android\\build-cache\\20ac1037defe225fb494cd5090d2abbd46355c22\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\com\\.android\\build-cache\\20ac1037defe225fb494cd5090d2abbd46355c22\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\com\\.android\\build-cache\\20ac1037defe225fb494cd5090d2abbd46355c22\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\info.png",
+        "source": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\src\\main\\res\\drawable\\info.png"
+    },
+    {
+        "merged": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\com\\.android\\build-cache\\20ac1037defe225fb494cd5090d2abbd46355c22\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\com\\.android\\build-cache\\81d545f6b9b4a03470bef241b87d97ce1bd5a8ec\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\status.png",
+        "source": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\src\\main\\res\\drawable\\status.png"
+    },
+    {
+        "merged": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\com\\.android\\build-cache\\20ac1037defe225fb494cd5090d2abbd46355c22\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\com\\.android\\build-cache\\20ac1037defe225fb494cd5090d2abbd46355c22\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash2.png",
+        "source": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\src\\main\\res\\drawable\\splash2.png"
+    },
+    {
+        "merged": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\location.png",
+        "source": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\src\\main\\res\\drawable\\location.png"
+    },
+    {
+        "merged": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\com\\.android\\build-cache\\81d545f6b9b4a03470bef241b87d97ce1bd5a8ec\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\com\\.android\\build-cache\\20ac1037defe225fb494cd5090d2abbd46355c22\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\com\\.android\\build-cache\\20ac1037defe225fb494cd5090d2abbd46355c22\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_about.png",
+        "source": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\src\\main\\res\\drawable\\ic_about.png"
+    },
+    {
+        "merged": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\com\\.android\\build-cache\\20ac1037defe225fb494cd5090d2abbd46355c22\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add.png",
+        "source": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\src\\main\\res\\drawable\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\com\\.android\\build-cache\\20ac1037defe225fb494cd5090d2abbd46355c22\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\com\\AndroidStudioProjects\\DFDS_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\com\\.android\\build-cache\\20ac1037defe225fb494cd5090d2abbd46355c22\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    }
+]

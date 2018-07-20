@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\com\.android\build-cache\7f5568e7d5ae2ea92ce3c807ba3339e397a7aee2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="C:\Users\com\AndroidStudioProjects\DFDS_App\app\build\intermediates\pre-dexed\debug\classes_3a51cc26eefb365dcd2855f1b56ee9a354be7966.jar" />
+    </item>
+
+</items>
